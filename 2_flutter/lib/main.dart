@@ -14,5 +14,6 @@ class MyApp extends StatelessWidget {
           appBarTheme: const AppBarTheme(backgroundColor: Colors.amber)),
       home: const WidgetExampleScreen(),
     );
+    // buraya bir kod yazdim
   }
 }
